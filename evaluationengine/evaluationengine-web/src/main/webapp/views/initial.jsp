@@ -577,7 +577,7 @@
 			</table>
 		</div>
 		<div id="messages"></div>
-		<div class="panel-footer">SmartFx -
+		<div class="panel-footer">App -
 			Proyecto de pruebas unitarias de maquina financiera</div>
 
 

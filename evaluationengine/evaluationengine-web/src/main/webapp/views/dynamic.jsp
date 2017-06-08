@@ -269,7 +269,7 @@
   <div class="panel-heading">Identificador de operacion</div>
   <div class="panel-body">
        <label id="spanTipoTramite">Message UUID: <b>{{solicitud.generatedMessageUUID}}</b></label>
-		<label id="spanNombreProceso">, Nombre de proceso: <b>SmartFx</b></label>								
+		<label id="spanNombreProceso">, Nombre de proceso: <b>App</b></label>								
         <label id="spanNombreOperacion">, Nombre de operacion: <b>Couta Mesa</b></label>										
 		<label id="spanUsuario">, Usuario: <b>STOCKER-JULIO</b></label>
 		<label id="spanRegion">, Region: <b>Metropolitana</b></label>
@@ -321,7 +321,7 @@
 		</div>
 
 		<div id="messages"></div>
-		<div class="panel-footer">SmartFx - Proyecto de pruebas
+		<div class="panel-footer">App - Proyecto de pruebas
 			unitarias de maquina financiera</div>
 
 
