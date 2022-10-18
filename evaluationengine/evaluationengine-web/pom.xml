@@ -21,7 +21,7 @@
 		<org.primefaces.extensions.version>2.0.0</org.primefaces.extensions.version>
 		<org.slf4j.version>1.7.20</org.slf4j.version>
 		<junit.version>4.12</junit.version>
-		<jackson.version>2.8.2</jackson.version>
+		<jackson.version>2.13.4.1</jackson.version>
 		<javaee.api.version>7.0</javaee.api.version>
 		<atmosphere-version>2.4.7</atmosphere-version>
 	</properties>
